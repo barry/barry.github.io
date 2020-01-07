@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference name</title>
-    <link>http://localhost:1313/</link>
+    <link>https://barry.github.io/</link>
     <description>Recent content on Conference name</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://barry.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
